@@ -6,3 +6,5 @@ A e-commerce food search website example using react
 ### Note
 food2fork site is closed. Due to which the images are not getting displayed properly. 
 Be sure to replace it with any of the currently working site(apis). 
+
+Follow this video link for the guidance: https://youtu.be/wEyPyesv4_c
